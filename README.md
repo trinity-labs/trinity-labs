@@ -90,4 +90,9 @@ Final goal is to be able to built AIO PC or Server in **noble materials** and sm
 
 🛠️ **CROWSOURCING is warmly appreciate - <a href="mailto:trinity.reboot@gmail.com">contact us</a>**
 
+To make it sense, I work on a cool Dashboard for Alpine Linux !
+
+![dashboard-dark-thumbnail](https://github.com/trinity-labs/trinity-labs/assets/45216746/f457c54e-1ffc-4922-9f21-eaea0e7822b4)
+
+
 **Get wired! 💜**
