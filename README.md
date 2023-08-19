@@ -47,7 +47,8 @@ Find this one refurbished:
 - 2 DDR3 Up to 16Go
 - Intel Core i3 4160T - 2 Cores | 4 Threads - TDP 45W - Fanless
 - Integrated Graphics up to 1Go
-- 3 SATA III (convert optical drive)
+- 2 SATA III
+- 1 SATA II + 1 mSATA II 
 - 1 HDMI
 - 1 LAN
 - 1 LVDS
