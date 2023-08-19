@@ -88,7 +88,7 @@ Long story since I discover their products at 6 years at my parents' house and f
 ![5415729484_a88c8d22a3_b](https://github.com/trinity-labs/trinity-labs/assets/45216746/60191e70-4a65-4ff2-9e17-6915615b3c37)
 
 
-**Apple Design** but not Apple Philosophy. And most "Vintage Things" about it. 
+**Apple Design** not **Apple Philosophy!** But manny "Vintage Things" about it and mostly work of "The Woz". 
 
 ![145767-speakers-review-beoplay-p6-review-image1-hquwo5cakt](https://github.com/trinity-labs/trinity-labs/assets/45216746/46ea2b0d-59c6-4ead-b83a-62f079f5de93)
 
