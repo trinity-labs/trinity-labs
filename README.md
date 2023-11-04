@@ -50,10 +50,10 @@ Find this one refurbished:
 - 2 SATA III
 - 1 SATA II + 1 mSATA II 
 - 1 HDMI
-- 1 LAN
+- 2 LAN
 - 1 LVDS
 - 2 USB3
-- 1 PCIe X1
+- 1 PCIe X1 (4 LAN basic NICs to build a gateway)
 - Standard PC I/O
 - Low powered @ 120W power supply
 
