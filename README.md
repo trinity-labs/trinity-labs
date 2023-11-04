@@ -45,7 +45,7 @@ Find this one refurbished:
 
 **AAEON EMB-H81B**
 - 2 DDR3 Up to 16Go
-- Intel Core i3 4160T - 2 Cores | 4 Threads - TDP 45W - Fanless
+- Intel Core i3 4160T - 2 Cores | 4 Threads - TDP 35W - Fanless
 - Integrated Graphics up to 1Go
 - 2 SATA III
 - 1 SATA II + 1 mSATA II 
