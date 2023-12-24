@@ -92,13 +92,12 @@ Long story since I discover their products at 6 years at my parents' house and f
 
 ![145767-speakers-review-beoplay-p6-review-image1-hquwo5cakt](https://github.com/trinity-labs/trinity-labs/assets/45216746/46ea2b0d-59c6-4ead-b83a-62f079f5de93)
 
-Final goal is to be able to built AIO PC or Server in **noble materials** and small **limited hand-made production** in Versailles - France.
+Final goal is to be able to built a gateway or an AIO PC in **noble materials** and small **limited hand-made production** in Versailles - France.
 
-🛠️ **CROWSOURCING is warmly appreciate - <a href="mailto:trinity.reboot@gmail.com">contact us</a>**
+🛠️ **CROWDSOURCING is warmly appreciate - <a href="mailto:trinity.reboot@gmail.com">contact us</a>**
 
 To make it sense, I work on a cool Dashboard for Alpine Linux !
 
-![dashboard-dark-thumbnail](https://github.com/trinity-labs/trinity-labs/assets/45216746/f457c54e-1ffc-4922-9f21-eaea0e7822b4)
-
+![thumbnail-trinity-12-2023](https://github.com/trinity-labs/trinity-labs/assets/45216746/426fc03e-2e9b-441d-be60-fcb537d888ab)
 
 **Get wired! 💜**
