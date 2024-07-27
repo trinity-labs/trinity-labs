@@ -102,4 +102,4 @@ To make it sense, I work on a cool Dashboard for Alpine Linux !
 
 **Get wired! 💜**
 
-<a rel="me" href="https://defcon.social/@trinity"></a>
+<a href="https://defcon.social/@trinity" rel="me"></a>
