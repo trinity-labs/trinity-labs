@@ -101,5 +101,3 @@ To make it sense, I work on a cool Dashboard for Alpine Linux !
 ![thumbnail-trinity-12-2023](https://github.com/trinity-labs/trinity-labs/assets/45216746/426fc03e-2e9b-441d-be60-fcb537d888ab)
 
 **Get wired! 💜**
-
-<a href="https://defcon.social/@trinity" rel="me"></a>
