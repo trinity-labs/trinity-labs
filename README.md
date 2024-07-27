@@ -4,7 +4,7 @@
 <br>
 <br>
 <div align="center" dir="auto">
-<img src="https://user-images.githubusercontent.com/45216746/221048916-d990ce07-dc89-4f1c-9e76-aeea75a173a0.png" style="max-width: 100%;">
+<img src="https://github.com/user-attachments/assets/a6400828-cc85-4b6a-bbab-1426aa3460e4" style="width: 33%;">
 </div>
 <br>
 <br>
@@ -102,4 +102,4 @@ To make it sense, I work on a cool Dashboard for Alpine Linux !
 
 **Get wired! 💜**
 
-<a rel="me" href="https://defcon.social/@trinity">Mastodon</a>
+<a rel="me" href="https://defcon.social/@trinity"></a>
