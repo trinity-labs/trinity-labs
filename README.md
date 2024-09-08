@@ -98,6 +98,16 @@ Final goal is to be able to built a gateway or an AIO PC in **noble materials** 
 
 To make it sense, I work on a cool Dashboard for Alpine Linux !
 
-![thumbnail-trinity-12-2023](https://github.com/trinity-labs/trinity-labs/assets/45216746/426fc03e-2e9b-441d-be60-fcb537d888ab)
+🟥 Stay Hired on 
+
+- [Reddit](https://www.reddit.com/r/PocketMainframe/)
+- [Mastodon](https://defcon.social/@trinity)
+
+<br>
+
+⬛ **New TRIИITY Dashboard**
+
+<br>
+<img src="https://github.com/user-attachments/assets/c32ebc55-6824-4ef2-9919-3b033b1c440e">
 
 **Get wired! 💜**
