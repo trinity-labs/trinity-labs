@@ -121,7 +121,7 @@ To make it sense, I work on a cool Dashboard for Alpine Linux !
 🟪 **2024 UPGRADE** for FTTH<br> 
 
 **AAEON EMB-Q87A**
-- 2 DDR3 Up to 16Go
+- 2 DDR3 16Go G-SKILL
 - Intel Core i7 4785T - 4 Cores | 8 Threads - TDP 35W - Fanless
 - Integrated Graphics up to 1Go
 - **4 SATA III**
@@ -155,7 +155,7 @@ To make it sense, I work on a cool Dashboard for Alpine Linux !
 
 <br>
 
-🟨 **Jan 2025** Speedtest, GPON fine tunning (XPON when ISP allowing)- NFtables optimizations - **Untag VLAN's** on Alpine system to preserve PON stick - **Wifi 5** optimization - Working on **eBPF XDP**
+🟨 **Jan 2025** Speedtest - **GPON** fine tunning (XPON when ISP allowing) - NFtables optimizations - **Untag VLAN's** on Alpine system to preserve PON stick - **Wifi 5** optimization - Working on **eBPF XDP**
 
 <div align="center" dir="auto">
   <img src="https://github.com/user-attachments/assets/fc9bfff0-1685-4a55-b591-e22c19947166" width="100%">
