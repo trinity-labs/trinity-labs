@@ -105,9 +105,61 @@ To make it sense, I work on a cool Dashboard for Alpine Linux !
 
 <br>
 
-⬛ **New TRIИITY Dashboard**
+⬛ **New TRIИITY Dashboard** get the demo : [[FanlessTech](https://dashboard.trinity-net.com)](https://dashboard.trinity-net.com)
 
 <br>
-<img src="https://github.com/user-attachments/assets/c32ebc55-6824-4ef2-9919-3b033b1c440e">
+
+![image](https://github.com/user-attachments/assets/41f02acc-7c11-45e9-833d-1d2e80e5af24)
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/9220267a-e4d2-4d97-b282-ef4499b6b866">
+
+<br>
+<br>
+
+🟪 **2024 UPGRADE** for FTTH<br> 
+
+**AAEON EMB-Q87A**
+- 2 DDR3 Up to 16Go
+- Intel Core i7 4785T - 4 Cores | 8 Threads - TDP 35W - Fanless
+- Integrated Graphics up to 1Go
+- **4 SATA III**
+- **1 mSATA III** 
+- 1 HDMI
+- 2 LAN
+- 1 LVDS
+- **4 USB3**
+- **1 PCIe X4** (Needed for GPON Stick Pcie card X4)
+- Standard PC I/O
+- **Low powered @ 160W GAN (Gallium Nitrite) power supply**
+
+🧪 <ins>**Prototype 2024**</ins>
+
+<br>
+<br>
+
+🟫 **Aug 2024** We get a test case before own one
+
+![TESTING CASE](https://github.com/user-attachments/assets/20c648ae-967a-4fa9-8ba7-b5c8af24dca0)
+
+<br>
+
+![WhatsApp Image 2025-02-16 à 14 42 50_b3774ee6](https://github.com/user-attachments/assets/ad8c1d10-9c92-4012-99dc-50656b84db95)
+
+<br>
+
+🟦 **Oct 2024** TRIИITY Gateway become a **boarder router** with **FTTH** from SFR ISP
+
+![TRINITY FTTH](https://github.com/user-attachments/assets/1c838ce0-ced6-48ae-9cb2-64fc517e8862)
+
+<br>
+
+🟨 **Jan 2025** Speedtest, GPON fine tunning (XPON when ISP allowing)- NFtables optimizations - **Untag VLAN's** on Alpine system to preserve PON stick - **Wifi 5** optimization - Working on **eBPF XDP**
+
+<div align="center" dir="auto">
+  <img src="https://github.com/user-attachments/assets/fc9bfff0-1685-4a55-b591-e22c19947166" width="100%">
+
+</div>
 
 **Get wired! 💜**
