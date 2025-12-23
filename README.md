@@ -36,7 +36,9 @@ Since⚡cost more and more - It's important to power saving all my electrical ma
 
 *(2x 500W = 1000W power supply previous 2020 config)*
 
-So at this point, I'm convinced that I now need material that I can easily **re-use/repair/upgrade** - 3 essential points. **A virtuous cycle!**
+So at this point, I'm convinced that I now need material that I can easily **re-use/repair/upgrade** - 3 essential points.
+
+**A virtuous cycle!**
 
 🟪 **TRINITY Project** was born<br> 
 
