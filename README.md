@@ -10,10 +10,12 @@
 <br>
 
 # Pocket IoT Mainframe
-*(aka Home Mainframe)*
+*(aka Pocket Mainframe)*
 <br>
 <br>
 **Begin of the story** - Re-use a screen broken laptop motherboard to get an home server, home theater and small Nas. Board from:
+
+🟪 **2020 Discovering Power of Low Powered** Progress is such that it becomes interesting to use them in server applications with a little help from my friend Alpine Linux
 
 **TOSHIBA P875-101**
 - 4 DDR3 Up to 32Go
