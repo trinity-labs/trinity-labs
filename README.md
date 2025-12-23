@@ -4,7 +4,7 @@
 <br>
 <br>
 <div align="center" dir="auto">
-<img src="https://github.com/user-attachments/assets/a6400828-cc85-4b6a-bbab-1426aa3460e4" style="width: 33%;">
+<img src="https://github.com/user-attachments/assets/0fb9fb12-6116-42d4-bc38-4d3eb94a6af7" style="width: 33%;">
 </div>
 <br>
 <br>
@@ -159,7 +159,31 @@ To make it sense, I work on a cool Dashboard for Alpine Linux !
 
 <div align="center" dir="auto">
   <img src="https://github.com/user-attachments/assets/fc9bfff0-1685-4a55-b591-e22c19947166" width="100%">
-
 </div>
+  <br> 
+
+🟪 **2025 Upgrade** TRINITY Project still growing with a CamperVan Low Powered 8V/24V with tracker option
+<br> 
+
+**MITAC PD10-ANI**
+- 1 DDR5 16Go SAMSUNG
+- Intel Core i3 N-305 - 8 Cores | 8 Threads - TDP 9W - Fanless
+- Integrated Graphics up to 1.25Go
+- **1 SATA III**
+- **4 M2** 
+- 1 HDMI
+- 2 LAN 2.5Gbs
+- 1 LVDS
+- **4 USB3**
+- **1 PCIe X1**
+
+🧪 <ins>**Prototype 2025**</ins>
+
+  <br> 
+
+<div align="center" dir="auto">
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/3ca5b6d8-74af-4367-87e6-4f45c15dbcfb" />
+</div>
+<br>
 
 **Get wired! 💜**
