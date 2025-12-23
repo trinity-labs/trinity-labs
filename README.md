@@ -9,7 +9,7 @@
 <br>
 <br>
 
-# Pocket Mainframe
+# Pocket IoT Mainframe
 *(aka Home Mainframe)*
 <br>
 <br>
